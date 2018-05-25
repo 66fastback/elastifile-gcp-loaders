@@ -4,13 +4,13 @@ Will create cluster of loader VMs from base GCP centos7 image, installing elfs_t
 
 ## Components
 
-# google_loaders.tf
+**google_loaders.tf**
 Main terraform configuration file
 
-# terraform.tvars
+**terraform.tvars**
 Main terraform configuration variables file
 
-# erun.sh
+**erun.sh**
 erun script load parameters
 
 **dns.txt**
